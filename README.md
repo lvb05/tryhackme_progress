@@ -1,7 +1,6 @@
 # 🛡️ TryHackMe Progress Tracker
 
-> 📍 A personal repository to track my cybersecurity learning journey through [TryHackMe](https://tryhackme.com).  
-> 🚀 Hands-on labs, room completions, writeups, and skills gained — all documented here!
+> 📍 A personal repository to track my cybersecurity learning journey through [TryHackMe](https://tryhackme.com). 
 
 ---
 

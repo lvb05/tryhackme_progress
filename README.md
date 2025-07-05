@@ -46,12 +46,13 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 ### 🔴 Hard
 
 
-
 ---
 
 ### 💻 Info
 
-- [ ] **[Linux Fundamentals part1](https://tryhackme.com/room/linuxfundamentalspart1)**
-- [ ] **[Careers in Cyber](https://tryhackme.com/room/careersincyber)**
-- [ ] **[What is Networking](https://tryhackme.com/room/whatisnetworking)** 
+- [x] **[Linux Fundamentals part1](https://tryhackme.com/room/linuxfundamentalspart1)**
+- [x] **[Careers in Cyber](https://tryhackme.com/room/careersincyber)**
+- [x] **[What is Networking](https://tryhackme.com/room/whatisnetworking)**
+- [x] **[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)**
+ 
 

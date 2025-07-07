@@ -59,4 +59,4 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[What is Networking](https://tryhackme.com/room/whatisnetworking)**
 - [x] **[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)**
 - [x] **[Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)**
-
+- [x] **[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)**

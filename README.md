@@ -34,6 +34,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Vulnversity](https://tryhackme.com/room/vulnversity)**
 - [x] **[Introductory Networking](https://tryhackme.com/room/introtonetworking)**
 - [x] **[How Websites Work](https://tryhackme.com/room/howwebsiteswork)**
+- [x] **[Putting it all together](https://tryhackme.com/room/puttingitalltogether)**
+
 
 
 

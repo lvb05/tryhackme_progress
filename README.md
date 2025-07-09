@@ -36,7 +36,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[How Websites Work](https://tryhackme.com/room/howwebsiteswork)**
 - [x] **[Putting it all together](https://tryhackme.com/room/puttingitalltogether)**
 - [ ] **[Active Directory basics](https://tryhackme.com/room/winadbasics)**
-
+- [x] **[Search skills](https://tryhackme.com/room/searchskills)**
 
 
 ---
@@ -60,3 +60,4 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)**
 - [x] **[Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)**
 - [x] **[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)**
+- [x] **[Training impact on teams](https://tryhackme.com/room/training)**

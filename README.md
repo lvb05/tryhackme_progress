@@ -35,9 +35,9 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Introductory Networking](https://tryhackme.com/room/introtonetworking)**
 - [x] **[How Websites Work](https://tryhackme.com/room/howwebsiteswork)**
 - [x] **[Putting it all together](https://tryhackme.com/room/puttingitalltogether)**
-- [ ] **[Active Directory basics](https://tryhackme.com/room/winadbasics)**
+- [x] **[Active Directory basics](https://tryhackme.com/room/winadbasics)**
 - [x] **[Search skills](https://tryhackme.com/room/searchskills)**
-
+- [x] **[Blue](https://tryhackme.com/room/blue)**
 
 ---
 

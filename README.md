@@ -17,7 +17,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Welcome](https://tryhackme.com/room/welcome)**
 - [x] **[How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)**
 - [ ] **[OpenVPN](https://tryhackme.com/room/openvpn)**
-- [ ] **[Starting Out in Cybersec](https://tryhackme.com/room/startingoutincybersec)**
+- [x] **[Starting Out in Cybersec](https://tryhackme.com/room/startingoutincybersec)**
 - [ ] **[Intro to Research](https://tryhackme.com/room/introtoresearch)**
 - [x] **[Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)**
 - [x] **[Python Basics](https://tryhackme.com/room/pythonbasics)**

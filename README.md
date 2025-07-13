@@ -38,13 +38,19 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Active Directory basics](https://tryhackme.com/room/winadbasics)**
 - [x] **[Search skills](https://tryhackme.com/room/searchskills)**
 - [x] **[Blue](https://tryhackme.com/room/blue)**
+- [x] **[The Hacker Methodology](https://tryhackme.com/room/hackermethodology)**
+- [x] **[Become a Hacker](https://tryhackme.com/room/becomeahackeroa)**
+- [x] **[Introductory Researching](https://tryhackme.com/room/introtoresearch)**
+- [x] **[All in One](https://tryhackme.com/room/allinonemj)**
 
 ---
 
 ### 🟡 Medium
 
 - [x] **[RedTeam OPSEC](https://tryhackme.com/room/opsec)**
-
+- [x] **[Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)**
+- [x] **[Airplane](https://tryhackme.com/room/airplane)**
+      
 ---
 
 ### 🔴 Hard

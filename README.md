@@ -43,6 +43,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Introductory Researching](https://tryhackme.com/room/introtoresearch)**
 - [x] **[All in One](https://tryhackme.com/room/allinonemj)**
 - [x] **[Active Reconnaissance](https://tryhackme.com/room/activerecon)**
+- [x] **[WebGOAT](https://tryhackme.com/room/webgoat)**
+
 ---
 
 ### 🟡 Medium

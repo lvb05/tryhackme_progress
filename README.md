@@ -42,7 +42,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Become a Hacker](https://tryhackme.com/room/becomeahackeroa)**
 - [x] **[Introductory Researching](https://tryhackme.com/room/introtoresearch)**
 - [x] **[All in One](https://tryhackme.com/room/allinonemj)**
-
+- [x] **[Active Reconnaissance](https://tryhackme.com/room/activerecon)**
 ---
 
 ### 🟡 Medium

@@ -44,6 +44,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[All in One](https://tryhackme.com/room/allinonemj)**
 - [x] **[Active Reconnaissance](https://tryhackme.com/room/activerecon)**
 - [x] **[WebGOAT](https://tryhackme.com/room/webgoat)**
+- [x] **[Geolocating Images](https://tryhackme.com/room/geolocatingimages)**
 
 ---
 

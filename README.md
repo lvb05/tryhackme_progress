@@ -45,7 +45,9 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Active Reconnaissance](https://tryhackme.com/room/activerecon)**
 - [x] **[WebGOAT](https://tryhackme.com/room/webgoat)**
 - [x] **[Geolocating Images](https://tryhackme.com/room/geolocatingimages)**
-
+- [x] **[Windows Command Line](https://tryhackme.com/room/windowscommandline)**
+- [x] **[Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)**
+- [x] **[Geolocating Images](https://tryhackme.com/room/geolocatingimages)**
 ---
 
 ### 🟡 Medium

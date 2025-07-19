@@ -50,7 +50,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)**
 - [x] **[Cryptography Basics](https://tryhackme.com/room/cryptographybasics)**
 - [x] **[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)**
-
+- [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
 
 ---
 
@@ -60,6 +60,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)**
 - [x] **[Airplane](https://tryhackme.com/room/airplane)**
 - [x] **[SSRF](https://tryhackme.com/room/ssrfhr)**
+- [x] **[WhyHackMe](https://tryhackme.com/room/whyhackme)**
 
       
 ---

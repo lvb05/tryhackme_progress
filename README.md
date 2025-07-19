@@ -48,6 +48,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Windows Command Line](https://tryhackme.com/room/windowscommandline)**
 - [x] **[Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)**
 - [x] **[Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)**
+- [x] **[Cryptography Basics](https://tryhackme.com/room/cryptographybasics)**
+- [x] **[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)**
 
 
 ---
@@ -57,6 +59,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[RedTeam OPSEC](https://tryhackme.com/room/opsec)**
 - [x] **[Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)**
 - [x] **[Airplane](https://tryhackme.com/room/airplane)**
+- [x] **[SSRF](https://tryhackme.com/room/ssrfhr)**
+
       
 ---
 

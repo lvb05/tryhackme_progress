@@ -51,6 +51,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Cryptography Basics](https://tryhackme.com/room/cryptographybasics)**
 - [x] **[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)**
 - [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
+- [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
 
 ---
 

@@ -53,7 +53,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
 - [x] **[Compiled](https://tryhackme.com/room/compiled)**
-- [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
+- [x] **[Memory Analysis Intro](https://tryhackme.com/room/memoryanalysisintroduction)**
 
 ---
 

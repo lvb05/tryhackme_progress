@@ -52,6 +52,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)**
 - [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
+- [x] **[Compiled](https://tryhackme.com/room/compiled)**
+- [x] **[Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)**
 
 ---
 

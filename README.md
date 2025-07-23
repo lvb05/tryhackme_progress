@@ -56,6 +56,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Memory Analysis Intro](https://tryhackme.com/room/memoryanalysisintroduction)**
 - [x] **[Introduction to SIEM](https://tryhackme.com/room/introtosiem)**
 - [x] **[Lookup](https://tryhackme.com/room/lookup)**
+- [x] **[Hydra](https://tryhackme.com/room/hydra)**
 
 ---
 

@@ -54,6 +54,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
 - [x] **[Compiled](https://tryhackme.com/room/compiled)**
 - [x] **[Memory Analysis Intro](https://tryhackme.com/room/memoryanalysisintroduction)**
+- [x] **[Introduction to SIEM](https://tryhackme.com/room/introtosiem)**
+- [x] **[Lookup](https://tryhackme.com/room/lookup)**
 
 ---
 

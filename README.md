@@ -58,6 +58,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Lookup](https://tryhackme.com/room/lookup)**
 - [x] **[Hydra](https://tryhackme.com/room/hydra)**
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
+- [ ] 
 ---
 
 ### 🟡 Medium

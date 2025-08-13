@@ -78,7 +78,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 
 ### 🔴 Hard
 
-- [x] **[FAT32 Analysis](https://tryhackme.com/room/airplane)**
+- [x] **[FAT32 Analysis](https://tryhackme.com/room/fat32analysis)**
 
 
 

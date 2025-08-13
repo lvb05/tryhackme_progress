@@ -58,7 +58,9 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Lookup](https://tryhackme.com/room/lookup)**
 - [x] **[Hydra](https://tryhackme.com/room/hydra)**
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
-- [x] **[Enumeration & Brute force](https://tryhackme.com/room/tomghost)**
+- [x] **[Enumeration & Brute force](https://tryhackme.com/room/enumerationbruteforce)**
+- [x] **[Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)**
+
 
 
 ---

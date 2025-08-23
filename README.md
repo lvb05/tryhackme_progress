@@ -60,8 +60,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Tomghost](https://tryhackme.com/room/tomghost)**
 - [x] **[Enumeration & Brute force](https://tryhackme.com/room/enumerationbruteforce)**
 - [x] **[Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)**
-
-
+- [x] **[Tryhack3mbricksheist](https://tryhackme.com/room/tryhack3mbricksheist)**
+- [x] **[Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)**
 
 ---
 

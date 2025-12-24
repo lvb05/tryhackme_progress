@@ -65,7 +65,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)**
 - [x] **[SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)**
 - [ ] **[Advent of Cyber prep track](https://tryhackme.com/room/adventofcyberpreptrack)**
-- [ ] **[Linux CLI](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)**
+- [ ] **[Linux CLI-Shell Balls](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)**
 
 
 ---

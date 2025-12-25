@@ -66,6 +66,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)**
 - [x] **[Advent of Cyber prep track](https://tryhackme.com/room/adventofcyberpreptrack)**
 - [x] **[Linux CLI-Shell Balls](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)**
+- [x] **[Phishing- merry clickmas](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)**
 
 
 ---

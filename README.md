@@ -81,6 +81,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[WhyHackMe](https://tryhackme.com/room/whyhackme)**
 - [x] **[Splunk Basics -did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)**
 - [x] **[IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9)**
+- [x] **[Malware Analysis]()**
 
       
 ---

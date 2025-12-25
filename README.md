@@ -78,6 +78,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Airplane](https://tryhackme.com/room/airplane)**
 - [x] **[SSRF](https://tryhackme.com/room/ssrfhr)**
 - [x] **[WhyHackMe](https://tryhackme.com/room/whyhackme)**
+- [ ] **[Splunk Basics -did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)**
+- [ ] 
 
       
 ---

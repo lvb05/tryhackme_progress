@@ -70,6 +70,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[AI in Security](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB)**
 - [x] **[Network Discovery](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)**
 - [x] **[Prompt Injection](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)**
+- [x] **[Passwords](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)**
 
 
 ---

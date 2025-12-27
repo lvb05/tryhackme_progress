@@ -69,7 +69,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Phishing- merry clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)**
 - [x] **[AI in Security](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB)**
 - [x] **[Network Discovery](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)**
-- [ ] **[Prompt Injection]()**
+- [x] **[Prompt Injection](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)**
 
 
 ---

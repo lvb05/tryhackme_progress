@@ -71,6 +71,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Network Discovery](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)**
 - [x] **[Prompt Injection](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)**
 - [x] **[Passwords](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)**
+- [x] **[XSS- Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)**
 
 
 ---

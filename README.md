@@ -92,7 +92,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Containers](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2)**
 - [x] **[Web Attack Forensics](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8)**
 - [x] **[Forensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)**
-- [x] **[]()**
+- [x] **[CyberChef](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3)**
 
       
 ---

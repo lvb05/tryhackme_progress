@@ -87,7 +87,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9)**
 - [x] **[Malware Analysis](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)**
 - [x] **[SOC alert triaging](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2)**
-- [x] **[Phishing](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0)** 
+- [x] **[Phishing](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0)**
+- [x] **[YARA Rules](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7)** 
 
       
 ---

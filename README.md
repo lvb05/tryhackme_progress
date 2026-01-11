@@ -72,7 +72,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Prompt Injection](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)**
 - [x] **[Passwords](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)**
 - [x] **[XSS- Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)**
-
+- [x] **[]()** 
 
 ---
 
@@ -94,7 +94,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Forensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)**
 - [x] **[CyberChef](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3)**
 - [x] **[Obfuscation](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)**
-- [x] **[]()**     
+- [x] **[ICS/Modbus](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)**
+- [x] **[]()** 
 ---
 
 ### 🔴 Hard

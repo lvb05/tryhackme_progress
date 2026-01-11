@@ -73,7 +73,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Passwords](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)**
 - [x] **[XSS- Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)**
 - [x] **[Race Conditions](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)** 
-- [x] **[]()**
+- [x] **[Malware Analysis](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4)**
 
 ---
 

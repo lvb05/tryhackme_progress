@@ -74,7 +74,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[XSS- Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)**
 - [x] **[Race Conditions](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)** 
 - [x] **[Malware Analysis](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4)**
-
+- [x] **[]()** 
 ---
 
 ### 🟡 Medium
@@ -96,7 +96,9 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[CyberChef](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3)**
 - [x] **[Obfuscation](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)**
 - [x] **[ICS/Modbus](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)**
-- [x] **[C2 Detection](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)** 
+- [x] **[C2 Detection](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)**
+- [x] **[]()** 
+- [ ]  
 ---
 
 ### 🔴 Hard

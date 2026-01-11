@@ -72,7 +72,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Prompt Injection](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)**
 - [x] **[Passwords](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)**
 - [x] **[XSS- Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)**
-- [x] **[]()** 
+- [x] **[Race Conditions](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)** 
 
 ---
 

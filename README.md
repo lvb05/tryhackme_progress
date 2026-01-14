@@ -75,7 +75,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Race Conditions](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)** 
 - [x] **[Malware Analysis](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4)**
 - [x] **[AWS Securtiy](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6)**
-- [x] **[]()**
+- [x] **[Exploitation with cURL](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0)**
 - [x] **[]()**
 
 ---

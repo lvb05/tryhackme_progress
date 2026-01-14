@@ -79,7 +79,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)**
 - [x] **[Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK)**
 - [x] **[Shodan.io](https://tryhackme.com/room/shodan)**
-
+- [x] **[BountyHacker](https://tryhackme.com/room/cowboyhacker)**
 
 
 

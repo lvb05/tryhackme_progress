@@ -107,7 +107,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Obfuscation](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)**
 - [x] **[ICS/Modbus](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)**
 - [x] **[C2 Detection](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)**
-- [x] **[]()** 
+- [x] **[Sustah](https://tryhackme.com/room/sustah)** 
 - [ ]  
 ---
 

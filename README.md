@@ -78,6 +78,11 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Exploitation with cURL](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0)**
 - [x] **[]()**
 
+
+
+
+
+
 ---
 
 ### 🟡 Medium

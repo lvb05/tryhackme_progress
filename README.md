@@ -130,4 +130,4 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)**
 - [x] **[Training impact on teams](https://tryhackme.com/room/training)**
 - [x] **[Hack2Win](https://tryhackme.com/room/hack2win)**
-
+- [x] **[Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)**

@@ -78,7 +78,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Exploitation with cURL](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0)**
 - [x] **[Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)**
 - [x] **[Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK)**
-- [x] **[](https://tryhackme.com/room/shodan)**
+- [x] **[Shodan.io](https://tryhackme.com/room/shodan)**
 
 
 

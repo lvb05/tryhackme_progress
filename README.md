@@ -82,7 +82,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[BountyHacker](https://tryhackme.com/room/cowboyhacker)**
 - [x] **[tmux](https://tryhackme.com/room/rptmux)**
 - [x] **[bolt](https://tryhackme.com/room/bolt)**
-- [x] **[]()**
+- [x] **[year of the rabbit](https://tryhackme.com/room/yearoftherabbit)**
 
 
 ---

@@ -83,7 +83,7 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[tmux](https://tryhackme.com/room/rptmux)**
 - [x] **[bolt](https://tryhackme.com/room/bolt)**
 - [x] **[year of the rabbit](https://tryhackme.com/room/yearoftherabbit)**
-- [x] **[bolt]()**
+- [x] **[]()**
 
 ---
 

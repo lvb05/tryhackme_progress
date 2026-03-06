@@ -12,7 +12,6 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 
 ### 🟢 Easy
 
-
 - [x] **[Hello](https://tryhackme.com/room/hello)**
 - [x] **[Getting Started](https://tryhackme.com/room/gettingstarted)**
 - [x] **[Welcome](https://tryhackme.com/room/welcome)**

@@ -136,7 +136,8 @@ A categorized list of rooms I’m working through or have completed on TryHackMe
 - [x] **[Hack2Win](https://tryhackme.com/room/hack2win)**
 - [x] **[Bypass Disable Functions](https://tryhackme.com/room/bypassdisablefunctions)**
 - [x] **[sudo security bypass](https://tryhackme.com/room/sudovulnsbypass)**
-
+- [x] **[]()**
 
  
-- [ ] 
+
+
